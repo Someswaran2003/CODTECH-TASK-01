@@ -105,9 +105,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author:** [Your Name](https://github.com/your-username)
-- **Email:** your.email@example.com
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+- **Author:** [S.someswaran](https://github.com/Someswaran2003/CODTECH-TASK-01)
+- **Email:** someshwaran06092003@gmail.com
+- **GitHub:** https://github.com/Someswaran2003/CODTECH-TASK-01
 
 ---
 
