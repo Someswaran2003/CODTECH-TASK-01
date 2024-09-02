@@ -35,7 +35,8 @@ A simple and intuitive To-Do List application to help you organize your tasks ef
 
 *Home screen of the To-Do List application.*
 
-![Add Task](![Uploading Screenshot 2024-09-02 111859.png…]()
+![Add Task](![Uploading Screenshot 2024-09-02 111859.png…](![Screenshot 2024-09-02 111859](https://github.com/user-attachments/assets/aaa83cc3-adf1-4f41-9e68-1c60e0f18d4b)
+)
 )
 *Adding a new task.*
 
