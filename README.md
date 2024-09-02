@@ -30,7 +30,7 @@ A simple and intuitive To-Do List application to help you organize your tasks ef
 
 ## Screenshots
 
-![Home Screen](./screenshots/home.png)![Screenshot 2024-09-02 111655](https://github.com/user-attachments/assets/973fa96d-2ba0-49b9-a828-eb493de2ef7e)
+![Home Screen](./screenshots/home.png)![Screenshot 2024-09-02 111655]
 
 *Home screen of the To-Do List application.*
 
